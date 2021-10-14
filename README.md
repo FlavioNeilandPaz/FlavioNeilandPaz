@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+##Hey, I'm Flavio! I am currently Product Owner and Business Analyst in Brazil. I'm passionate about business and technologies, I'm always looking for knowledge and new experiences, I'm also a programming enthusiast; C#.NET; Node and Python. Just one click and let's build something that makes sense to people together :)
+
 <!--
 **FlavioNeilandPaz/FlavioNeilandPaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
